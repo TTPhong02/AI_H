@@ -1,0 +1,10 @@
+Cài đặt :
+tải python : https://www.python.org/downloads/
+
+--- Mở visual studio code 
++ tải extension : Python .
+---- Chạy chương trình:
++ mở terminal : 
++ chạy lệnh :  pip install pandas numpy scikit-learn matplotlib seaborn
++ chạy lệnh :  pip install pandas openpyxl
++ chạy lệnh :  python graduation_prediction.py
